@@ -3,6 +3,8 @@
 /vendor
 /storage/*.key
 .env
+.env.*
+storage/dotenv-editor/backups/
 /public/storage
 /public/hot
 /public/mix-manifest.json
