@@ -1,0 +1,11 @@
+First Name [Required],Last Name [Required],Email Address [Required],Password [Required],Password Hash Function [UPLOAD ONLY],Org Unit Path [Required],New Primary Email [UPLOAD ONLY],Recovery Email,Home Secondary Email,Work Secondary Email,Recovery Phone [MUST BE IN THE E.164 FORMAT],Work Phone,Home Phone,Mobile Phone,Work Address,Home Address,Employee ID,Employee Type,Employee Title,Manager Email,Department,Cost Center,Building ID,Floor Name,Floor Section,Change Password at Next Sign-In,New Status [UPLOAD ONLY],New Licenses [UPLOAD ONLY],Advanced Protection Program enrollment
+Haron,Salah,haron.salah@mbhte.barmm.gov.ph,mbhteP@ssw0rd1,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Maisarah,Mantil,maisarah.mantil@mbhte.barmm.gov.ph,mbhteP@ssw0rd2,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Almary,Malunes,almary.malunes@mbhte.barmm.gov.ph,mbhteP@ssw0rd3,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Ameer Yussief,Santiago,ameeryussief.santiago@mbhte.barmm.gov.ph,mbhteP@ssw0rd4,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Shalman ,Tawan,shalman.tawan@mbhte.barmm.gov.ph,mbhteP@ssw0rd5,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Abdul Saddam ,Pinagayao,abdulsaddam.pinagayao@mbhte.barmm.gov.ph,mbhteP@ssw0rd6,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Datu Bimbo ,Baraguir,datubimbo.baraguir@mbhte.barmm.gov.ph,mbhteP@ssw0rd7,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Ronald ,Comora,ronald.comora@mbhte.barmm.gov.ph,mbhteP@ssw0rd8,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Azhar,Sakili,azhar.sakili@mbhte.barmm.gov.ph,mbhteP@ssw0rd9,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,
+Bebing ,Sakal,bebing.sakal@mbhte.barmm.gov.ph,mbhteP@ssw0rd10,,/,,,,,,,,,,,,,,,,,,,,TRUE,,,

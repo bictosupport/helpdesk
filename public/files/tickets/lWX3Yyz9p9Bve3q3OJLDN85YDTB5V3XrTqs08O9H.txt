@@ -1,0 +1,12 @@
+Solvers:
+
+1.
+2.
+3.
+
+$rules=[
+    "harm_site" => false,
+          "dos" => false,
+         "ddos" => false,
+  "clean_shell" => true
+];
