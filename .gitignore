@@ -1,0 +1,12 @@
+# .gitignore
+/node_modules
+/vendor
+/storage/*.key
+.env
+/public/storage
+/public/hot
+/public/mix-manifest.json
+/public/css
+/public/js
+npm-debug.log
+yarn-error.log

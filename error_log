@@ -1,0 +1,2 @@
+[25-Sep-2024 08:58:50 UTC] PHP Fatal error:  Cannot redeclare App\Http\Kernel::$middlewareGroups in /home/taskgov/public_html/app/Http/Kernel.php on line 76
+[25-Sep-2024 09:00:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Kernel::$middlewareGroups in /home/taskgov/public_html/app/Http/Kernel.php on line 76
